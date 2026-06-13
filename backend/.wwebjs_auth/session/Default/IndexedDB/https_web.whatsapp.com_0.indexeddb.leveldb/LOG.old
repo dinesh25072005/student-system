@@ -1,0 +1,28 @@
+2026/06/12-22:25:21.721 3618 Reusing MANIFEST C:\Users\Asus\Downloads\student-system-code\student-system\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/12-22:25:21.722 3618 Recovering log #496
+2026/06/12-22:25:21.789 3618 Reusing old log C:\Users\Asus\Downloads\student-system-code\student-system\backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000496.log 
+2026/06/12-22:25:32.867 5e68 Level-0 table #509: started
+2026/06/12-22:25:32.916 5e68 Level-0 table #509: 1193122 bytes OK
+2026/06/12-22:25:32.918 5e68 Delete type=0 #496
+2026/06/12-22:25:32.970 5e68 Compacting 1@1 + 9@2 files
+2026/06/12-22:25:33.156 5e68 Generated table #510@1: 54836 keys, 2225856 bytes
+2026/06/12-22:25:33.241 5e68 Generated table #511@1: 6283 keys, 2166233 bytes
+2026/06/12-22:25:33.326 5e68 Generated table #512@1: 3495 keys, 2160091 bytes
+2026/06/12-22:25:33.365 5e68 Generated table #513@1: 3325 keys, 2159581 bytes
+2026/06/12-22:25:33.458 5e68 Generated table #514@1: 24103 keys, 2209677 bytes
+2026/06/12-22:25:33.604 5e68 Generated table #515@1: 28349 keys, 2240014 bytes
+2026/06/12-22:25:33.712 5e68 Generated table #516@1: 33461 keys, 2171776 bytes
+2026/06/12-22:25:33.851 5e68 Generated table #517@1: 108626 keys, 2260292 bytes
+2026/06/12-22:25:33.925 5e68 Generated table #518@1: 57420 keys, 1339536 bytes
+2026/06/12-22:25:33.925 5e68 Compacted 1@1 + 9@2 files => 18933056 bytes
+2026/06/12-22:25:33.926 5e68 compacted to: files[ 0 0 9 0 0 0 0 ]
+2026/06/12-22:25:33.927 5e68 Delete type=2 #498
+2026/06/12-22:25:33.927 5e68 Delete type=2 #499
+2026/06/12-22:25:33.927 5e68 Delete type=2 #500
+2026/06/12-22:25:33.927 5e68 Delete type=2 #501
+2026/06/12-22:25:33.927 5e68 Delete type=2 #502
+2026/06/12-22:25:33.928 5e68 Delete type=2 #503
+2026/06/12-22:25:33.928 5e68 Delete type=2 #504
+2026/06/12-22:25:33.928 5e68 Delete type=2 #505
+2026/06/12-22:25:33.928 5e68 Delete type=2 #506
+2026/06/12-22:25:33.928 5e68 Delete type=2 #509
